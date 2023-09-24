@@ -3,7 +3,7 @@
 
 CO_CR is an android apps that help Class Representative in Management of his academic activities.
 It helps him to keep track of his daily task according to a his schedule. It also helps him to allocate resources of his corresponding semester
-Here is how you can use the application.
+# Here is how you can use the application.
 
 ## 1.we need to click on any date that will show class scheduled in that day
 ![1](https://github.com/Carl-Elias/Project_2100/assets/101546407/382edf8c-3a39-43e9-9ca4-938942e04001)
